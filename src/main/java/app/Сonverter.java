@@ -1,6 +1,6 @@
 package app;
 
-public class converter {
+public class Сonverter {
 
     private static final double CONV_K = 2.20462;
 
